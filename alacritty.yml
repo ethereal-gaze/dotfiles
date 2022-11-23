@@ -1,0 +1,24 @@
+import: 
+  - /home/ben/.config/alacritty/dracula.yml
+
+font:
+  normal:
+    family: undefined
+    style: medium
+
+  bold:
+    family: undefined
+    style: bold
+
+  italic:
+    family: undefined
+    style: Italic
+
+  bold_italic:
+    family: undefined
+    style: Bold Italic
+
+  size: 14
+
+window:
+  opacity: 0.8
